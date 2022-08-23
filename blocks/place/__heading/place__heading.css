@@ -1,0 +1,32 @@
+.place__heading {
+  margin: 0;
+  padding-right: 10px;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 1.06;
+}
+
+@media screen and (max-width: 920px) {
+  .place__heading {
+    font-size: 52px;
+    line-height: 1.1;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__heading {
+    font-size: 42px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .place__heading {
+    font-size: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__heading {
+    padding: 0 16px;
+  }
+}

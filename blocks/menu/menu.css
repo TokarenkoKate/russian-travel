@@ -1,0 +1,11 @@
+@media screen and (max-width: 700px) {
+  .menu {
+    margin-bottom: 14px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .menu {
+    margin-bottom: 48px;
+  }
+}

@@ -1,0 +1,9 @@
+.menu__item:not(:last-of-type) {
+  margin-right: 19px;
+}
+
+@media screen and (max-width: 480px) {
+  .menu__item:not(:last-of-type) {
+    margin: 0 0 31px 0;
+  }
+}

@@ -1,0 +1,9 @@
+.baikal__background {
+  width: 100%;
+  position: relative;
+  padding-bottom: 62.5%;
+  background-image: url(../../../../russian-travel/images/Bailkal\ background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

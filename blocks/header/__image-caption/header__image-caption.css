@@ -1,0 +1,18 @@
+.header__image-caption {
+  padding-top: 4px;
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 1.5px;
+}
+
+@media screen and (max-width: 928px) {
+  .header__image-caption {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header__image-caption {
+    padding-left: 16px;
+  }
+}

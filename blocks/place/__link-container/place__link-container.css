@@ -1,0 +1,9 @@
+.place__link-container {
+  align-self: end;
+}
+
+@media screen and (max-width: 320px) {
+  .place__link-container {
+    padding: 0 16px;
+  }
+}

@@ -1,0 +1,12 @@
+.menu__list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media screen and (max-width: 480px) {
+  .menu__list {
+    flex-direction: column;
+  }
+}
