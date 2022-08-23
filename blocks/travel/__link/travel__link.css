@@ -1,0 +1,38 @@
+.travel__link {
+  width: 100%;
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  background-image: url(./../../../images/Bailkal\ background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-decoration: none;
+  color: inherit;
+}
+
+.travel__link::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease-in-out;
+}
+
+.travel__link:hover::after{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+@media screen and (max-width: 1184px) {
+  .travel__link {
+    min-height: calc(100vw * 0.625);
+  }
+}

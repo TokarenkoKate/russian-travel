@@ -1,4 +1,6 @@
-.baikal__subtitle {
+.travel__subtitle {
+  position: relative;
+  z-index: 1;
   max-width: 360px;
   margin: 0;
   font-size: 18px;
@@ -6,7 +8,7 @@
 }
 
 @media screen and (max-width: 480px) {
-  .baikal__subtitle {
+  .travel__subtitle {
     white-space: pre-line;
     max-width: 278px;
     font-size: 14px;

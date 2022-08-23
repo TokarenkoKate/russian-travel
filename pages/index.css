@@ -32,12 +32,10 @@
 @import url(../blocks/place/__link-address/place__link-address.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__text/place__text.css);
-@import url(../blocks/baikal/baikal.css);
-@import url(../blocks/baikal/__background/baikal__background.css);
-@import url(../blocks/baikal/__content/baikal__content.css);
-@import url(../blocks/baikal/__heading/baikal__heading.css);
-@import url(../blocks/baikal/__subtitle/baikal__subtitle.css);
-@import url(../blocks/baikal/__link/baikal__link.css);
+@import url(../blocks/travel/travel.css);
+@import url(../blocks/travel/__link/travel__link.css);
+@import url(../blocks/travel/__heading/travel__heading.css);
+@import url(../blocks/travel/__subtitle/travel__subtitle.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/menu/menu.css);
