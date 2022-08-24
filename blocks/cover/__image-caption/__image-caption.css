@@ -1,8 +1,9 @@
 .cover__image-caption {
-  padding-top: 4px;
+  padding-top: 8px;
   font-size: 10px;
   line-height: 1.4;
   letter-spacing: 1.5px;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 928px) {

@@ -1,5 +1,6 @@
 .place__link-address {
   display: block;
+  text-transform: uppercase; 
   font-size: 12px;
   line-height: 1;
   letter-spacing: 2px;

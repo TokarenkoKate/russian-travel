@@ -1,0 +1,3 @@
+.header__lang-link-item:not(:last-of-type) {
+  margin-right: 18px;
+}
