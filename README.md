@@ -4,7 +4,7 @@
 
 ## Описание проекта.
 Данная работа является проектным заданием для курса ["Веб-разработчик" Яндекс Практикума](https://practicum.yandex.ru/web/), спринт 3. Цель данного проекта заключается в практическом применении изученных технологий. Это одностраничный лендинг, который описывает возможности путешествий по России.
-Ссылка на проект: [tokarenkokate.github.io/russian-travel/](https://practicum.yandex.ru/web/)
+Ссылка на проект: [tokarenkokate.github.io/russian-travel/](https://tokarenkokate.github.io/russian-travel/)
 
 ---
 
